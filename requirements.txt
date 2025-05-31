@@ -49,3 +49,4 @@ google-api-python-client
 fpdf
 matplotlib
 pygsheets==2.0.5
+oauth2client==4.1.3
